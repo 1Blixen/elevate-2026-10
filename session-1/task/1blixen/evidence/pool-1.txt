@@ -1,0 +1,13 @@
+﻿[heartbeat 1] event loop is responsive
+Hash 1: 25.27 ms
+Hash 2: 51.21 ms
+Hash 3: 74.96 ms
+Hash 4: 99.04 ms
+Hash 5: 124.07 ms
+Hash 6: 149.19 ms
+Hash 7: 174.00 ms
+Hash 8: 198.98 ms
+UV_THREADPOOL_SIZE=1
+Total time: 199.46 ms
+Average total time per hash: 24.93 ms
+Heartbeats during run: 1

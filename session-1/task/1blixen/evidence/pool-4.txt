@@ -1,0 +1,12 @@
+﻿Hash 1: 40.87 ms
+Hash 2: 29.81 ms
+Hash 3: 35.44 ms
+Hash 4: 35.45 ms
+Hash 5: 84.27 ms
+Hash 6: 92.06 ms
+Hash 7: 70.12 ms
+Hash 8: 88.81 ms
+UV_THREADPOOL_SIZE=4
+Total time: 92.71 ms
+Average total time per hash: 11.59 ms
+Heartbeats during run: 0

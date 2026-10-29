@@ -4,7 +4,6 @@
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
 
-    /* 🚀 ADD THIS LINE TO FIX THE ERROR */
     "types": ["node"],
 
     "noEmit": true,

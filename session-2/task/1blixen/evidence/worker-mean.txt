@@ -1,0 +1,3 @@
+Request: GET /cities/mean-temperature?count=10000000
+Mean temperature: 12.5031181
+Request duration: 249 ms
